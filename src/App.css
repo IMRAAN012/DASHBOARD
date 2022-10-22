@@ -1,0 +1,58 @@
+.Rolex {
+    position: absolute;
+    width: 1409px;
+    height: 1592px;
+    left: 130px;
+    top: 489px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.15);
+    border-radius: 10px
+}
+
+
+.card-frame{
+    position: absolute;
+    width: 432px;
+    height: 719px;
+    left: 150px;
+    top: 590px;
+
+    background: #F8F8F8;
+    border: 1px solid #EEEEEE;
+    box-shadow: 0px 1px 15px rgba(151, 151, 151, 0.15);
+    border-radius: 15px;
+}
+
+.card-outer{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 432px;
+    height: 719px;
+    left: 150px;
+    top: 590px;
+
+    background: #F8F8F8;
+    border: 1px solid #EEEEEE;
+    box-shadow: 0px 1px 15px rgba(151, 151, 151, 0.15);
+    border-radius: 15px;
+    
+}
+
+
+.card-inner{
+    position: absolute;
+    width: 402px;
+    height: 302px;
+    left: 165px;
+    top: 605px;
+
+    background: linear-gradient(180deg, rgba(136, 135, 135, 0.01) 41.5%, #626262 100%);
+    box-shadow: 0px 2px 20px rgba(151, 151, 151, 0.15);
+    border-radius: 10px;
+
+}
+
+
+
